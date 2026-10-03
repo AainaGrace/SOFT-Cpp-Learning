@@ -16,4 +16,5 @@ int main(){
         cout<<"Number is zero";
     }
     return 0;
+
 }
