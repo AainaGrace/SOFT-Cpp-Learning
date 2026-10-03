@@ -1,2 +1,2 @@
-# SOFT-C--Learning
-C++  Foundation Practice 
+# SOFT-Cpp-Learning
+C++ Practice Questions
