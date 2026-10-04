@@ -27,7 +27,5 @@ int main() {
         else (num1 == num2 && num2 == num3){
             cout<<num1<<num2<<num3<<"are equal";}
             
-      
-    
-    return 0;
+        return 0;
 }
