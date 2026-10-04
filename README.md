@@ -10,7 +10,9 @@ C++ Practice Questions
 | `Challenge/` | Advanced algorithms (e.g., Armstrong Number) | [View Folder](./Challenge) |
 | `intro.cpp` | Introduction and basic syntax program | [intro.cpp](./intro.cpp) |
 | `markpercentage.cpp` | Calculate percentage based on total and obtained marks | [markpercentage.cpp](./markpercentage.cpp) |
-| `switchcalculator.cpp` | Simple menu-driven calculator using `switch-case` | [switchcalculator.cpp](./switchcalculator.cpp) |
+| `switchcalculator.cpp` | Simple menu-driven calculator using `switch-case` | [switchcalculator.cpp]
+| `student_profile.cpp` | Manage and display student profile information | [student_profile.cpp](./student_profile.cpp) |
+(./switchcalculator.cpp) |
 | `setA_+-0.cpp` | Check if a number is positive, negative, or zero | [setA_+-0.cpp](./setA_+-0.cpp) |
 | `setA_oddoreven.cpp` | Determine if an integer is odd or even | [setA_oddoreven.cpp](./setA_oddoreven.cpp) |
 | `setA_passorfail.cpp` | Simple pass or fail decision logic | [setA_passorfail.cpp](./setA_passorfail.cpp) |
