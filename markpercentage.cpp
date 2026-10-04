@@ -10,7 +10,7 @@ int main() {
 	cout << "Enter your name: ";
 	cin >> name;
 
-  cout << "Enter your age: ";
+    cout << "Enter your age: ";
 	cin >> age;
 
 	cout << "Enter your marks: ";
