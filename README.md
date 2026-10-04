@@ -8,6 +8,7 @@ C++ Practice Questions
 | `Beginner/` | Fundamental C++ programs & multiplication tables | [View Folder](./Beginner) |
 | `Intermediate/` | Logic-building & string exercises (e.g., Palindrome) | [View Folder](./Intermediate) |
 | `Challenge/` | Advanced algorithms (e.g., Armstrong Number) | [View Folder](./Challenge) |
+| `intro.cpp` | Introduction and basic syntax program | [intro.cpp](./intro.cpp) |
 | `markpercentage.cpp` | Calculate percentage based on total and obtained marks | [markpercentage.cpp](./markpercentage.cpp) |
 | `switchcalculator.cpp` | Simple menu-driven calculator using `switch-case` | [switchcalculator.cpp](./switchcalculator.cpp) |
 | `setA_+-0.cpp` | Check if a number is positive, negative, or zero | [setA_+-0.cpp](./setA_+-0.cpp) |
