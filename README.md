@@ -1,6 +1,6 @@
-# SOFT-Cpp-Learning
+# Module1-programming-foundations-JSOFT26261
 
-Welcome to the **SOFT-Cpp-Learning** repository! This project serves as a comprehensive collection of C++ practice programs.
+Welcome to the **module1-prgramming-foundations-JSOFT26261** repository! This project serves as a comprehensive collection of C++ practice programs.
 
 ---
 
